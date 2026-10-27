@@ -1,0 +1,16 @@
+Customer_ID,Customer_Name,Email,City,Order_Date,Category,Sales,Status
+C001,John Smith,john.smith@email.com,Chennai,2026-05-01,Electronics,1200.0,Completed
+C002,priya kumar,priya.kumar@email.com,Chennai,2026-05-01,Electronics,850.0,Completed
+C003,Rahul Das,rahul.das@email.com,Bangalore,2026-05-01,Clothing,650.0,Completed
+C004,Anita Rao,anita.rao@email.com,Mumbai,2026-08-01,Clothing,780.0,Pending
+C005,Vijay Kumar,vijay.kumar@email.com,Delhi,2026-09-01,Home,500.0,Completed
+C006,Meena Shah,meena.shah@email.com,Mumbai,2026-10-01,Home,725.0,Cancelled
+C007,Arun Patel,arun.patel@email.com,Delhi,2026-11-01,Electronics,1450.0,Completed
+C008,Kiran Roy,kiran.roy@email.com,Kolkata,2026-12-01,Clothing,900.0,Pending
+C009,Suresh Nair,suresh.nair@email.com,Chennai,2026-05-01,Electronics,1100.0,Completed
+C010,Lakshmi Iyer,lakshmi.iyer@email.com,Hyderabad,2026-05-01,Home,620.0,Completed
+C011,Naveen,naveen@email.com,Bangalore,2026-05-01,Electronics,980.0,Completed
+C012,Divya Menon,divya.menon@email.com,Chennai,2026-05-01,Clothing,780.0,Pending
+C013,Ravi Teja,ravi.teja@email.com,Delhi,2026-05-01,Home,450.0,Completed
+C014,Sneha Paul,sneha.paul@email.com,Kolkata,2026-05-01,Electronics,1300.0,Completed
+C015,Asha Singh,asha.singh@email.com,Mumbai,2026-05-01,Clothing,700.0,Cancelled

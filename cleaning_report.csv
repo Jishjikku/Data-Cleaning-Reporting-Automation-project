@@ -1,0 +1,10 @@
+Metric,Value
+Original Rows,16.0
+Cleaned Rows,15.0
+Duplicate Rows Removed,1.0
+Missing Sales Before Cleaning,1.0
+Invalid/Missing Dates Before Cleaning,10.0
+Total Sales After Cleaning,12985.0
+Completed Orders,10.0
+Pending Orders,3.0
+Cancelled Orders,2.0
